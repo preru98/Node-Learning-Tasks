@@ -1,0 +1,12 @@
+{
+  "name": "node_http",
+  "version": "1.0.0",
+  "description": "Node HTTP Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index"
+  },
+  "author": "Prerna Sharma",
+  "license": "ISC"
+}
